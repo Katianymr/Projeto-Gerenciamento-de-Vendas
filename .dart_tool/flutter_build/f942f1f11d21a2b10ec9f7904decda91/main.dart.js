@@ -43990,7 +43990,7 @@ S.jK.prototype={
 aw:function(){return new S.Ep(C.p)}}
 S.Ep.prototype={
 I:function(a){var t=null
-return M.lL(E.nq(t,L.b_("",t,t,t,t,t)),E.zp(T.nK(H.c([new T.aJ(t,30,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vy),L.b_("Estoque",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.SR(a)),t),new T.aJ(t,40,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vD),L.b_("Registrar Venda",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.SS(a)),t),new T.aJ(t,40,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vv),L.b_("Cadastrar Cliente",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.ST(a)),t)],u.F),C.aM,C.bx),t),E.Y1(L.hC(C.vE),!1,new S.SU(a)))}}
+return M.lL(E.nq(t,L.b_("",t,t,t,t,t)),E.zp(T.nK(H.c([new T.aJ(t,60,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vy),L.b_("Estoque",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.SR(a)),t),new T.aJ(t,40,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vD),L.b_("Registrar Venda",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.SS(a)),t),new T.aJ(t,40,t,t),new T.aJ(200,50,D.Wl(L.hC(C.vv),L.b_("Cadastrar Cliente",t,t,t,A.ca(t,t,t,t,t,t,t,t,t,t,t,18,t,t,t,t,!0,t,t,t,t,t,t),t),new S.ST(a)),t)],u.F),C.aM,C.bx),t),E.Y1(L.hC(C.vE),!1,new S.SU(a)))}}
 S.SR.prototype={
 $0:function(){K.hP(this.a,"/BotaoEstoque",u.K)},
 $S:0}

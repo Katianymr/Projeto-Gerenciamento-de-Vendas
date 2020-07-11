@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:projeto_gerenciamento_vendas/Cadastrar_Produtos.dart';
+import 'package:projeto_gerenciamento_vendas/Cadastro_Novo_Usuario.dart';
 import 'package:projeto_gerenciamento_vendas/Registrar_Venda.dart';
 import 'package:projeto_gerenciamento_vendas/Tela_Inicio.dart';
 import 'package:projeto_gerenciamento_vendas/Tela_Sobre.dart';
@@ -11,6 +12,7 @@ import 'Cadastrar_Cliente.dart';
 
 void main() {
   runApp(MaterialApp(
+
     debugShowCheckedModeBanner: false,
     title: "Gerenciamento de Vendas",
     initialRoute: "/Tela_Login",
@@ -22,7 +24,21 @@ void main() {
       "/BotaoRegistroVenda": (context) => RegistroVenda(),
       "/BotaoCadastroProduto": (context) => CadastroProduto(),
       "/BotaoCadastroCliente": (context) => CadastroCliente(),
+      "/Telanovousuario": (context) => CadastroNovoUsuario(),
     },
   ));
 }
 
+class Login extends StatefulWidget {
+  @override
+  _LoginState createState() => _LoginState();
+}
+
+class _LoginState extends State<Login> {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      
+    );
+  }
+}

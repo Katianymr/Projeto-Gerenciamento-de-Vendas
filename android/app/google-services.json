@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "540776373954",
+    "firebase_url": "https://gerenciamento-vendas.firebaseio.com",
+    "project_id": "gerenciamento-vendas",
+    "storage_bucket": "gerenciamento-vendas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540776373954:android:e5263617258c786094a55b",
+        "android_client_info": {
+          "package_name": "com.example.projeto_gerenciamento_vendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540776373954-d9v59a14k2rvvpcf3ora6b2gcva0of80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_ZTbsMIjlc8lMMXX6q2NC2ezT5GOWC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540776373954-d9v59a14k2rvvpcf3ora6b2gcva0of80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
